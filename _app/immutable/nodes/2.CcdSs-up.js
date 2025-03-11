@@ -1,0 +1,8 @@
+import{t as o,h as g,a as s,s as m}from"../chunks/B1kJn0h5.js";import{i as h}from"../chunks/DhWre19X.js";import{p as u,t as i,a as f,$ as x,c as n,r,n as y}from"../chunks/D_pRvsFy.js";import{s as b}from"../chunks/Cv-C16dJ.js";var v=o('<meta property="og:title">'),w=o(`<div class="flex flex-1 flex-col gap-3"><h1 class="my-3 pb-3 text-5xl border-b-[1px] border-gray-700"> </h1> <p><span class="inline-flex gap-2"><a href="https://opensource.org/license/mit" target="_blank"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" class="h-[24px]"></a> <a href="https://pnpm.io/" target="_blank"><img src="https://img.shields.io/badge/Package-PNPM-orange?style=flat-square" class="h-[24px]"></a> <img src="https://img.shields.io/badge/Module-ECMAScript-yellow?style=flat-square" class="h-[24px]"></span></p> <p>Simpledocs is a minimalistic and efficient documentation site designed
+        for designers, developers, and teams who need a quick and organized way
+        to present their documentation. It offers a clean and responsive layout
+        with essential features like a navigation sidebar and search
+        functionality. Built with simplicity in mind, this project ensures that
+        users can focus on writing content without dealing with complex
+        configurations. Its lightweight nature makes it easy to deploy on the
+        GitHub Pages.</p></div>`);function z(l,p){u(p,!1),h();var e=w();g(d=>{var a=v();i(()=>{x.title="Magazinc! Brand Guidelines",b(a,"content","Magazinc! Brand Guidelines")}),s(d,a)});var t=n(e),c=n(t,!0);r(t),y(4),r(e),i(()=>m(c,"Magazinc! Brand Guidelines")),s(l,e),f()}export{z as component};
