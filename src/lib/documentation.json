@@ -1,7 +1,14 @@
 [
     {
-        "name": "Identitas Visual",
+        "name": "Ketentuan Umum",
         "pages": [
+            {
+                "title": "Kepemilikan dan Lisensi",
+                "slug": "kepemilikan-dan-lisensi",
+                "contents": [
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sodales augue lorem, ut facilisis lorem finibus ut. Nunc mattis dui at pharetra condimentum. Phasellus venenatis id augue quis laoreet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque sit amet quam at tellus tristique hendrerit vitae et augue. Praesent eget dui ornare, accumsan augue sed, lacinia erat. Maecenas sit amet odio mi."
+                ]
+            },
             {
                 "title": "Buku Pedoman",
                 "slug": "buku-pedoman",
@@ -9,10 +16,15 @@
                     "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sodales augue lorem, ut facilisis lorem finibus ut. Nunc mattis dui at pharetra condimentum. Phasellus venenatis id augue quis laoreet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque sit amet quam at tellus tristique hendrerit vitae et augue. Praesent eget dui ornare, accumsan augue sed, lacinia erat. Maecenas sit amet odio mi.",
                     {
                         "type": "pdf",
-                        "target": "/docs/pedoman-identitas-dan-panduan-aplikasi.pdf"
+                        "target": "/docs/pedoman-identitas-dan-panduan-aplikasi"
                     }
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "name": "Identitas Visual",
+        "pages": [
             {
                 "title": "Logo",
                 "slug": "logo",
