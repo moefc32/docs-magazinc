@@ -36,6 +36,26 @@
                 "title": "Warna",
                 "slug": "warna",
                 "contents": [
+                    {
+                        "type": "color-blocks",
+                        "items": [
+                            {
+                                "label": "Biru Magazinc!",
+                                "blockColor": "#00aff0",
+                                "textColor": "#ffffff"
+                            },
+                            {
+                                "label": "Putih Magazinc!",
+                                "blockColor": "#ffffff",
+                                "textColor": "#000000"
+                            },
+                            {
+                                "label": "Abu Magazinc!",
+                                "blockColor": "#757575",
+                                "textColor": "#ffffff"
+                            }
+                        ]
+                    },
                     "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sodales augue lorem, ut facilisis lorem finibus ut. Nunc mattis dui at pharetra condimentum. Phasellus venenatis id augue quis laoreet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque sit amet quam at tellus tristique hendrerit vitae et augue. Praesent eget dui ornare, accumsan augue sed, lacinia erat. Maecenas sit amet odio mi."
                 ]
             },
