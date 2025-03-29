@@ -29,7 +29,121 @@
                 "title": "Logo",
                 "slug": "logo",
                 "contents": [
-                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sodales augue lorem, ut facilisis lorem finibus ut. Nunc mattis dui at pharetra condimentum. Phasellus venenatis id augue quis laoreet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque sit amet quam at tellus tristique hendrerit vitae et augue. Praesent eget dui ornare, accumsan augue sed, lacinia erat. Maecenas sit amet odio mi."
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sodales augue lorem, ut facilisis lorem finibus ut. Nunc mattis dui at pharetra condimentum. Phasellus venenatis id augue quis laoreet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque sit amet quam at tellus tristique hendrerit vitae et augue. Praesent eget dui ornare, accumsan augue sed, lacinia erat. Maecenas sit amet odio mi.",
+                    {
+                        "type": "section-title",
+                        "value": "Konfigurasi Primer"
+                    },
+                    {
+                        "type": "image",
+                        "title": "Logo primer utama Magazinc!",
+                        "target": "/docs/logo/magazinc-standard-primary.svg",
+                        "background": "#ffffff",
+                        "width": "600px"
+                    },
+                    {
+                        "type": "download-info",
+                        "label": "Konfigurasi Primer Utama (.png)",
+                        "target": "/docs/logo/magazinc-standard-primary.png"
+                    },
+                    {
+                        "type": "download",
+                        "label": "Konfigurasi Primer Utama (.svg)",
+                        "target": "/docs/logo/magazinc-standard-primary.svg"
+                    },
+                    {
+                        "type": "image",
+                        "title": "Logo primer kecil Magazinc!",
+                        "target": "/docs/logo/magazinc-compact-primary.svg",
+                        "background": "#ffffff",
+                        "width": "240px"
+                    },
+                    {
+                        "type": "download-info",
+                        "label": "Konfigurasi Primer Kecil (.png)",
+                        "target": "/docs/logo/magazinc-compact-primary.png"
+                    },
+                    {
+                        "type": "download",
+                        "label": "Konfigurasi Primer Kecil (.svg)",
+                        "target": "/docs/logo/magazinc-compact-primary.svg"
+                    },
+                    {
+                        "type": "section-title",
+                        "value": "Konfigurasi Sekunder"
+                    },
+                    {
+                        "type": "image",
+                        "title": "Logo sekunder utama Magazinc!",
+                        "target": "/docs/logo/magazinc-standard-secondary.svg",
+                        "background": "#00aff0",
+                        "width": "600px"
+                    },
+                    {
+                        "type": "download-info",
+                        "label": "Konfigurasi Sekunder Utama (.png)",
+                        "target": "/docs/logo/magazinc-standard-secondary.png"
+                    },
+                    {
+                        "type": "download",
+                        "label": "Konfigurasi Sekunder Utama (.svg)",
+                        "target": "/docs/logo/magazinc-standard-secondary.svg"
+                    },
+                    {
+                        "type": "image",
+                        "title": "Logo sekunder kecil Magazinc!",
+                        "target": "/docs/logo/magazinc-compact-secondary.svg",
+                        "background": "#00aff0",
+                        "width": "240px"
+                    },
+                    {
+                        "type": "download-info",
+                        "label": "Konfigurasi Sekunder Kecil (.png)",
+                        "target": "/docs/logo/magazinc-compact-secondary.png"
+                    },
+                    {
+                        "type": "download",
+                        "label": "Konfigurasi Sekunder Kecil (.svg)",
+                        "target": "/docs/logo/magazinc-compact-secondary.svg"
+                    },
+                    {
+                        "type": "section-title",
+                        "value": "Konfigurasi Tersier"
+                    },
+                    {
+                        "type": "image",
+                        "title": "Logo tersier utama Magazinc!",
+                        "target": "/docs/logo/magazinc-standard-tertiary.svg",
+                        "background": "#ffffff",
+                        "width": "600px"
+                    },
+                    {
+                        "type": "download-info",
+                        "label": "Konfigurasi Tersier Utama (.png)",
+                        "target": "/docs/logo/magazinc-standard-tertiary.png"
+                    },
+                    {
+                        "type": "download",
+                        "label": "Konfigurasi Tersier Utama (.svg)",
+                        "target": "/docs/logo/magazinc-standard-tertiary.svg"
+                    },
+                    {
+                        "type": "image",
+                        "title": "Logo tersier kecil Magazinc!",
+                        "target": "/docs/logo/magazinc-compact-tertiary.svg",
+                        "background": "#ffffff",
+                        "width": "240px"
+                    },
+                    {
+                        "type": "download-info",
+                        "label": "Konfigurasi Tersier Kecil (.png)",
+                        "target": "/docs/logo/magazinc-compact-tertiary.png"
+                    },
+                    {
+                        "type": "download",
+                        "label": "Konfigurasi Tersier Kecil (.svg)",
+                        "target": "/docs/logo/magazinc-compact-tertiary.svg"
+                    }
                 ]
             },
             {
